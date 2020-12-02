@@ -25,7 +25,7 @@ $ php spark serve
 ## 2. How to access rest API
 by default url is http://localhost:8080
 
-| METHOD | URL | Details | Body JSON
+| Method | Endpoint | Details | Body JSON
 | ------ | ------ | ------ | ------ | 
 | GET | /users | Get all users | -
 | GET | /users/:id | Get users by id | -
