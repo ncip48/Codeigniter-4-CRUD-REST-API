@@ -2,11 +2,12 @@
 
 ## 1. Installation
 ### 1.1 Change your database information in .env file
-> database.default.hostname = localhost
-> database.default.database = pegawai
-> database.default.username = root
-> database.default.password = 
-> database.default.DBDriver = MySQLi
+``` database.default.hostname = localhost
+database.default.database = pegawai
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+```
 
 ### 1.2 Run migrate database
 ```sh
